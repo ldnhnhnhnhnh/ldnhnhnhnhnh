@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leducnhan6a <br/>
 - 👀 I’m interested in Counter - Striker 2 (for sure), Valorant for aiming pro),....<br/>
 - 🌱 I’m currently learning Faculty of Computer Enginerring (VLSI design focusing..<br/>
-- 🏫 Graduated: Nguyen Du High School for the gifted + Phan Chu Trinh secondary school, Buon Ma Thuot City, DakLak Province.<br/>
+** 🏫 Graduated: Nguyen Du High School for the gifted + Phan Chu Trinh secondary school, Buon Ma Thuot City, DakLak Province.<br/>
 
 <!---
 leducnhan6a/leducnhan6a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
